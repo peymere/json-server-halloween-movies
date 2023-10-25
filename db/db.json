@@ -6,10 +6,10 @@
             "posterUrl": "https://i.imgur.com/ttUfg7a.jpg",
             "runtime": 122,
             "genre": ["classic","paranormal", "body horror"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1973
+            "starRating": "",
+            "releaseYear": 1973
         },
         {
             "id": 2,
@@ -17,10 +17,10 @@
             "posterUrl": "https://i.imgur.com/OhbCm2R.jpg",
             "runtime": 96,
             "genre": ["body horror"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1986
+            "starRating": "",
+            "releaseYear": 1986
         },
         {
             "id": 3,
@@ -28,10 +28,10 @@
             "posterUrl": "https://i.imgur.com/To7VrOM.png",
             "runtime": 109,
             "genre": ["cult classics","body horror"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1982
+            "starRating": "",
+            "releaseYear": 1982
         },
         {
             "id": 4,
@@ -39,10 +39,10 @@
             "posterUrl": "https://i.imgur.com/Z61cNJX.jpg",
             "runtime": 117,
             "genre": ["body horror"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1979
+            "starRating": "",
+            "releaseYear": 1979
         },
         {
             "id": 5,
@@ -50,10 +50,10 @@
             "posterUrl": "https://i.imgur.com/1JaANhR.jpg",
             "runtime": 102,
             "genre": ["gore", "paranormal", "body horror"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2022
+            "starRating": "",
+            "releaseYear": 2022
         },
         {
             "id": 6,
@@ -61,10 +61,10 @@
             "posterUrl": "https://i.imgur.com/qB0Zm3u.jpg",
             "runtime": 103,
             "genre": ["body horror"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2020
+            "starRating": "",
+            "releaseYear": 2020
         },
         {
             "id": 7,
@@ -72,10 +72,10 @@
             "posterUrl": "https://i.imgur.com/hlZQJgC.jpg",
             "runtime": 94,
             "genre": ["cult classics", "gore", "body horror"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1987
+            "starRating": "",
+            "releaseYear": 1987
         },
         {
             "id": 8,
@@ -83,10 +83,10 @@
             "posterUrl": "https://i.imgur.com/qRcBzFs.jpg",
             "runtime": 98,
             "genre": ["body horror"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2007
+            "starRating": "",
+            "releaseYear": 2007
         },
         {
             "id": 9,
@@ -94,10 +94,10 @@
             "posterUrl": "https://i.imgur.com/9nlxFeh.jpg",
             "runtime": 97,
             "genre": ["cult classics","body horror"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1981
+            "starRating": "",
+            "releaseYear": 1981
         },
         {
             "id": 10,
@@ -105,10 +105,10 @@
             "posterUrl": "https://i.imgur.com/nupI0G1.jpg",
             "runtime": 86,
             "genre": ["gore","body horror"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1985
+            "starRating": "",
+            "releaseYear": 1985
         },
         {
             "id": 11,
@@ -116,10 +116,10 @@
             "posterUrl": "https://i.imgur.com/1XG72rn.jpeg",
             "runtime": 90,
             "genre": ["gore", "body horror"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2009
+            "starRating": "",
+            "releaseYear": 2009
         },
         {
             "id": 12,
@@ -127,10 +127,10 @@
             "posterUrl": "https://i.imgur.com/nWgQKgU.jpeg",
             "runtime": 124,
             "genre": ["body horror"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1988
+            "starRating": "",
+            "releaseYear": 1988
         },
         {
             "id": 13,
@@ -138,10 +138,10 @@
             "posterUrl": "https://i.imgur.com/hSO72MF.jpeg",
             "runtime": 102,
             "genre": ["body horror"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2014
+            "starRating": "",
+            "releaseYear": 2014
         },
         {
             "id": 14,
@@ -149,10 +149,10 @@
             "posterUrl": "https://i.imgur.com/4Etc9Hg.jpg",
             "runtime": 110,
             "genre": ["psychological", "body horror"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2010
+            "starRating": "",
+            "releaseYear": 2010
         },
         {
             "id": 15,
@@ -160,10 +160,10 @@
             "posterUrl": "https://i.imgur.com/HnYWfDm.jpg",
             "runtime": 108,
             "genre": ["psychological", "body horror"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2021
+            "starRating": "",
+            "releaseYear": 2021
         },
         {
             "id": 16,
@@ -171,10 +171,10 @@
             "posterUrl": "https://i.imgur.com/k6NocIH.jpg",
             "runtime": 139,
             "genre": ["gore","body horror"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2001
+            "starRating": "",
+            "releaseYear": 2001
         },
         {
             "id": 17,
@@ -182,10 +182,10 @@
             "posterUrl": "https://i.imgur.com/ilXmKz8.jpeg",
             "runtime": 127,
             "genre": ["paranormal"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2018
+            "starRating": "",
+            "releaseYear": 2018
         },
         {
             "id": 18,
@@ -193,10 +193,10 @@
             "posterUrl": "https://i.imgur.com/aSUBn8q.jpg",
             "runtime": 120,
             "genre": ["paranormal"],
-            "age-rating": "PG",
+            "ageRating": "PG",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1982
+            "starRating": "",
+            "releaseYear": 1982
         },
         {
             "id": 19,
@@ -204,10 +204,10 @@
             "posterUrl": "https://i.imgur.com/amknNIO.jpg",
             "runtime": 115,
             "genre": [ "paranormal"],
-            "age-rating": "PG-13",
+            "ageRating": "PG-13",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2002
+            "starRating": "",
+            "releaseYear": 2002
         },
         {
             "id": 20,
@@ -215,10 +215,10 @@
             "posterUrl": "https://i.imgur.com/NpTgqMS.jpg",
             "runtime": 99,
             "genre": ["paranormal"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2007
+            "starRating": "",
+            "releaseYear": 2007
         },
         {
             "id": 21,
@@ -226,10 +226,10 @@
             "posterUrl": "https://i.imgur.com/TX509nw.jpg",
             "runtime": 81,
             "genre": ["paranormal"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1999
+            "starRating": "",
+            "releaseYear": 1999
         },
         {
             "id": 22,
@@ -237,10 +237,10 @@
             "posterUrl": "https://i.imgur.com/pVsBmG8.jpg",
             "runtime": 136,
             "genre": ["classic", "paranormal"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1968
+            "starRating": "",
+            "releaseYear": 1968
         },
         {
             "id": 23,
@@ -248,10 +248,10 @@
             "posterUrl": "https://i.imgur.com/NTBdd8j.jpg",
             "runtime": 112,
             "genre": ["paranormal"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2013
+            "starRating": "",
+            "releaseYear": 2013
         },
         {
             "id": 24,
@@ -259,10 +259,10 @@
             "posterUrl": "https://i.imgur.com/1EaVdri.jpg",
             "runtime": 92,
             "genre": ["paranormal"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2014
+            "starRating": "",
+            "releaseYear": 2014
         },
         {
             "id": 25,
@@ -270,10 +270,10 @@
             "posterUrl": "https://i.imgur.com/PuZ7hrj.jpg",
             "runtime": 107,
             "genre": ["paranormal"],
-            "age-rating": "PG-13",
+            "ageRating": "PG-13",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1999
+            "starRating": "",
+            "releaseYear": 1999
         },
         {
             "id": 26,
@@ -281,10 +281,10 @@
             "posterUrl": "https://i.imgur.com/h6ShA7c.jpg",
             "runtime": 156,
             "genre": ["paranormal"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2016
+            "starRating": "",
+            "releaseYear": 2016
         },
         {
             "id": 27,
@@ -292,10 +292,10 @@
             "posterUrl": "https://i.imgur.com/SSUtmFt.jpg",
             "runtime": 92,
             "genre": ["paranormal"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2015
+            "starRating": "",
+            "releaseYear": 2015
         },
         {
             "id": 28,
@@ -303,10 +303,10 @@
             "posterUrl": "https://i.imgur.com/1YSSpbT.jpg",
             "runtime": 130,
             "genre": ["paranormal"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2022
+            "starRating": "",
+            "releaseYear": 2022
         },
         {
             "id": 29,
@@ -314,10 +314,10 @@
             "posterUrl": "https://i.imgur.com/mtLZmb8.jpg",
             "runtime": 110,
             "genre": ["psychological", "paranormal"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2019
+            "starRating": "",
+            "releaseYear": 2019
         },
         {
             "id": 30,
@@ -325,10 +325,10 @@
             "posterUrl": "https://i.imgur.com/Dea9KPd.jpg",
             "runtime": 99,
             "genre": ["slasher", "cult classics","paranormal"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1992
+            "starRating": "",
+            "releaseYear": 1992
         },
         {
             "id": 31,
@@ -336,10 +336,10 @@
             "posterUrl": "https://i.imgur.com/RXihT2X.jpg",
             "runtime": 135,
             "genre": ["cult classics", "paranormal"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2017
+            "starRating": "",
+            "releaseYear": 2017
         },
         {
             "id": 32,
@@ -347,10 +347,10 @@
             "posterUrl": "https://i.imgur.com/WfkrL7O.jpg",
             "runtime": 79,
             "genre": ["classic"],
-            "age-rating": "G",
+            "ageRating": "G",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1954
+            "starRating": "",
+            "releaseYear": 1954
         },
         {
             "id": 33,
@@ -358,10 +358,10 @@
             "posterUrl": "https://i.imgur.com/gceBOwi.jpg",
             "runtime": 93,
             "genre": ["psychological","paranormal"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2014
+            "starRating": "",
+            "releaseYear": 2014
         },
         {
             "id": 34,
@@ -369,10 +369,10 @@
             "posterUrl": "https://i.imgur.com/tlVVUsp.jpg",
             "runtime": 99,
             "genre": ["paranormal"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2005
+            "starRating": "",
+            "releaseYear": 2005
         },
         {
             "id": 35,
@@ -380,10 +380,10 @@
             "posterUrl": "https://i.imgur.com/1Gu0Fyf.jpg",
             "runtime": 83,
             "genre": ["paranormal"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2015
+            "starRating": "",
+            "releaseYear": 2015
         },
         {
             "id": 36,
@@ -391,10 +391,10 @@
             "posterUrl": "https://i.imgur.com/njlVHa3.jpg",
             "runtime": 111,
             "genre": ["paranormal"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1976
+            "starRating": "",
+            "releaseYear": 1976
         },
         {
             "id": 37,
@@ -402,10 +402,10 @@
             "posterUrl": "https://i.imgur.com/5gQNBfO.jpg",
             "runtime": 118,
             "genre": ["paranormal"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1979
+            "starRating": "",
+            "releaseYear": 1979
         },
         {
             "id": 38,
@@ -413,10 +413,10 @@
             "posterUrl": "https://i.imgur.com/yXSgWzS.jpg",
             "runtime": 89,
             "genre": ["paranormal"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2008
+            "starRating": "",
+            "releaseYear": 2008
         },
         {
             "id": 39,
@@ -424,10 +424,10 @@
             "posterUrl": "https://i.imgur.com/w8TPJmO.jpg",
             "runtime": 100,
             "genre": ["gore"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2004
+            "starRating": "",
+            "releaseYear": 2004
         },
         {
             "id": 40,
@@ -435,10 +435,10 @@
             "posterUrl": "https://i.imgur.com/xjkXI0T.jpg",
             "runtime": 95,
             "genre": ["slasher", "gore"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2000
+            "starRating": "",
+            "releaseYear": 2000
         },
         {
             "id": 41,
@@ -446,10 +446,10 @@
             "posterUrl": "https://i.imgur.com/lPKN4Tr.jpg",
             "runtime": 94,
             "genre": ["gore"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2005
+            "starRating": "",
+            "releaseYear": 2005
         },
         {
             "id": 42,
@@ -457,10 +457,10 @@
             "posterUrl": "https://i.imgur.com/hI8wSAq.jpg",
             "runtime": 85,
             "genre": ["slasher", "gore"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1981
+            "starRating": "",
+            "releaseYear": 1981
         },
         {
             "id": 43,
@@ -468,10 +468,10 @@
             "posterUrl": "https://i.imgur.com/U8tMB0J.jpg",
             "runtime": 113,
             "genre": ["gore"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1999
+            "starRating": "",
+            "releaseYear": 1999
         },
         {
             "id": 44,
@@ -479,10 +479,10 @@
             "posterUrl": "https://i.imgur.com/xe869Mi.jpg",
             "runtime": 82,
             "genre": ["slasher", "gore"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2016
+            "starRating": "",
+            "releaseYear": 2016
         },
         {
             "id": 45,
@@ -490,10 +490,10 @@
             "posterUrl": "https://i.imgur.com/cZjcQN2.jpg",
             "runtime": 89,
             "genre": ["slasher","gore"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2003
+            "starRating": "",
+            "releaseYear": 2003
         },
         {
             "id": 46,
@@ -501,10 +501,10 @@
             "posterUrl": "https://i.imgur.com/oWSx15k.jpg",
             "runtime": 103,
             "genre": ["gore"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2008
+            "starRating": "",
+            "releaseYear": 2008
         },
         {
             "id": 47,
@@ -512,10 +512,10 @@
             "posterUrl": "https://i.imgur.com/BsLWaV1.jpg",
             "runtime": 105,
             "genre": ["slasher", "gore"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2022
+            "starRating": "",
+            "releaseYear": 2022
         },
         {
             "id": 48,
@@ -523,10 +523,10 @@
             "posterUrl": "https://i.imgur.com/9rI1xZU.jpg",
             "runtime": 90,
             "genre": ["slasher", "gore"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2001
+            "starRating": "",
+            "releaseYear": 2001
         },
         {
             "id": 49,
@@ -534,10 +534,10 @@
             "posterUrl": "https://i.imgur.com/SiJGitj.jpg",
             "runtime": 113,
             "genre": ["slasher", "gore"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2005
+            "starRating": "",
+            "releaseYear": 2005
         },
         {
             "id": 50,
@@ -545,10 +545,10 @@
             "posterUrl": "https://i.imgur.com/bUsutBf.jpg",
             "runtime": 100,
             "genre": ["slasher", "cult classics", "gore"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2007
+            "starRating": "",
+            "releaseYear": 2007
         },
         {
             "id": 51,
@@ -556,10 +556,10 @@
             "posterUrl": "https://i.imgur.com/YZ3sPaQ.jpg",
             "runtime": 91,
             "genre": ["gore"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2007
+            "starRating": "",
+            "releaseYear": 2007
         },
         {
             "id": 52,
@@ -567,10 +567,10 @@
             "posterUrl": "https://i.imgur.com/DMwAX1g.jpg",
             "runtime": 102,
             "genre": ["zombie", "gore"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1985
+            "starRating": "",
+            "releaseYear": 1985
         },
         {
             "id": 53,
@@ -578,10 +578,10 @@
             "posterUrl": "https://i.imgur.com/ji7C7tx.jpg",
             "runtime": 99,
             "genre": ["zombie", "gore"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2021
+            "starRating": "",
+            "releaseYear": 2021
         },
         {
             "id": 54,
@@ -589,10 +589,10 @@
             "posterUrl": "https://i.imgur.com/UL7pMxA.jpg",
             "runtime": 25,
             "genre": ["family"],
-            "age-rating": "G",
+            "ageRating": "G",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1966
+            "starRating": "",
+            "releaseYear": 1966
         },
         {
             "id": 55,
@@ -600,10 +600,10 @@
             "posterUrl": "https://i.imgur.com/TraRojz.jpg",
             "runtime": 76,
             "genre": ["family"],
-            "age-rating": "PG",
+            "ageRating": "PG",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1993
+            "starRating": "",
+            "releaseYear": 1993
         },
         {
             "id": 56,
@@ -611,10 +611,10 @@
             "posterUrl": "https://i.imgur.com/dONzYns.jpg",
             "runtime": 96,
             "genre": ["family"],
-            "age-rating": "PG",
+            "ageRating": "PG",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1993
+            "starRating": "",
+            "releaseYear": 1993
         },
         {
             "id": 57,
@@ -622,10 +622,10 @@
             "posterUrl": "https://i.imgur.com/wYjSamR.jpg",
             "runtime": 115,
             "genre": ["family"],
-            "age-rating": "PG",
+            "ageRating": "PG",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2009
+            "starRating": "",
+            "releaseYear": 2009
         },
         {
             "id": 58,
@@ -633,10 +633,10 @@
             "posterUrl": "https://i.imgur.com/dqLdtIL.jpg",
             "runtime": 84,
             "genre": ["family"],
-            "age-rating": "PG",
+            "ageRating": "PG",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1998
+            "starRating": "",
+            "releaseYear": 1998
         },
         {
             "id": 59,
@@ -644,10 +644,10 @@
             "posterUrl": "https://i.imgur.com/qoukUJF.jpg",
             "runtime": 99,
             "genre": ["comedy","family"],
-            "age-rating": "PG-13",
+            "ageRating": "PG-13",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1991
+            "starRating": "",
+            "releaseYear": 1991
         },
         {
             "id": 60,
@@ -655,10 +655,10 @@
             "posterUrl": "https://i.imgur.com/SuoQTs2.jpg",
             "runtime": 96,
             "genre": ["family"],
-            "age-rating": "PG",
+            "ageRating": "PG",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1995
+            "starRating": "",
+            "releaseYear": 1995
         },
         {
             "id": 61,
@@ -666,10 +666,10 @@
             "posterUrl": "https://i.imgur.com/HpdSEi3.jpg",
             "runtime": 106,
             "genre": ["comedy","family"],
-            "age-rating": "PG",
+            "ageRating": "PG",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1984
+            "starRating": "",
+            "releaseYear": 1984
         },
         {
             "id": 62,
@@ -677,10 +677,10 @@
             "posterUrl": "https://i.imgur.com/R2JfsCI.jpg",
             "runtime": 91,
             "genre": ["family"],
-            "age-rating": "PG",
+            "ageRating": "PG",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2012
+            "starRating": "",
+            "releaseYear": 2012
         },
         {
             "id": 63,
@@ -688,10 +688,10 @@
             "posterUrl": "https://i.imgur.com/42cMkSN.jpg",
             "runtime": 87,
             "genre": ["family"],
-            "age-rating": "PG",
+            "ageRating": "PG",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2012
+            "starRating": "",
+            "releaseYear": 2012
         },
         {
             "id": 64,
@@ -699,10 +699,10 @@
             "posterUrl": "https://i.imgur.com/Eyz8sms.jpg",
             "runtime": 74,
             "genre": ["family"],
-            "age-rating": "PG",
+            "ageRating": "PG",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2005
+            "starRating": "",
+            "releaseYear": 2005
         },
         {
             "id": 65,
@@ -710,10 +710,10 @@
             "posterUrl": "https://i.imgur.com/hmBXDlk.jpg",
             "runtime": 85,
             "genre": ["family"],
-            "age-rating": "PG",
+            "ageRating": "PG",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2000
+            "starRating": "",
+            "releaseYear": 2000
         },
         {
             "id": 66,
@@ -721,10 +721,10 @@
             "posterUrl": "https://i.imgur.com/uWMH9T1.jpg",
             "runtime": 94,
             "genre": ["cult classics", "family"],
-            "age-rating": "PG-13",
+            "ageRating": "PG-13",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1986
+            "starRating": "",
+            "releaseYear": 1986
         },
         {
             "id": 67,
@@ -732,10 +732,10 @@
             "posterUrl": "https://i.imgur.com/eyJEynR.jpg",
             "runtime": 78,
             "genre": ["zombie", "family"],
-            "age-rating": "PG",
+            "ageRating": "PG",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1998
+            "starRating": "",
+            "releaseYear": 1998
         },
         {
             "id": 68,
@@ -743,10 +743,10 @@
             "posterUrl": "https://i.imgur.com/RNk5Z6v.jpg",
             "runtime": 87,
             "genre": ["family"],
-            "age-rating": "PG",
+            "ageRating": "PG",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2005
+            "starRating": "",
+            "releaseYear": 2005
         },
         {
             "id": 69,
@@ -754,10 +754,10 @@
             "posterUrl": "https://i.imgur.com/KwLDpG3.jpg",
             "runtime": 89,
             "genre": ["family"],
-            "age-rating": "G",
+            "ageRating": "G",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2000
+            "starRating": "",
+            "releaseYear": 2000
         },
         {
             "id": 70,
@@ -765,10 +765,10 @@
             "posterUrl": "https://i.imgur.com/N0DmIo5.jpg",
             "runtime": 95,
             "genre": ["comedy","cult classics", "family"],
-            "age-rating": "PG",
+            "ageRating": "PG",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1988
+            "starRating": "",
+            "releaseYear": 1988
         },
         {
             "id": 71,
@@ -776,10 +776,10 @@
             "posterUrl": "https://i.imgur.com/H9j3LxJ.jpg",
             "runtime": 105,
             "genre": [ "cult classics", "family"],
-            "age-rating": "PG-13",
+            "ageRating": "PG-13",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1990
+            "starRating": "",
+            "releaseYear": 1990
         },
         {
             "id": 72,
@@ -787,10 +787,10 @@
             "posterUrl": "https://i.imgur.com/Enaaipv.jpg",
             "runtime": 101,
             "genre": ["cult classics", "family"],
-            "age-rating": "PG",
+            "ageRating": "PG",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1986
+            "starRating": "",
+            "releaseYear": 1986
         },
         {
             "id": 73,
@@ -798,10 +798,10 @@
             "posterUrl": "https://i.imgur.com/UdIlu0C.jpg",
             "runtime": 98,
             "genre": ["comedy", "cult classics"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1975
+            "starRating": "",
+            "releaseYear": 1975
         },
         {
             "id": 74,
@@ -809,10 +809,10 @@
             "posterUrl": "https://i.imgur.com/yrPxAaW.jpg",
             "runtime": 110,
             "genre": ["cult classics"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1999
+            "starRating": "",
+            "releaseYear": 1999
         },
         {
             "id": 75,
@@ -820,10 +820,10 @@
             "posterUrl": "https://i.imgur.com/7YeFvLK.jpg",
             "runtime": 108,
             "genre": ["cult classics"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2000
+            "starRating": "",
+            "releaseYear": 2000
         },
         {
             "id": 76,
@@ -831,10 +831,10 @@
             "posterUrl": "https://i.imgur.com/lPVdQh6.jpg",
             "runtime": 132,
             "genre": ["classic"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1962
+            "starRating": "",
+            "releaseYear": 1962
         },
         {
             "id": 77,
@@ -842,10 +842,10 @@
             "posterUrl": "https://i.imgur.com/3VCmXFO.jpg",
             "runtime": 91,
             "genre": ["slasher", "cult classics"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1978
+            "starRating": "",
+            "releaseYear": 1978
         },
         {
             "id": 78,
@@ -853,10 +853,10 @@
             "posterUrl": "https://i.imgur.com/XBSojD1.jpg",
             "runtime": 91,
             "genre": ["slasher","cult classics"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1984
+            "starRating": "",
+            "releaseYear": 1984
         },
         {
             "id": 79,
@@ -864,10 +864,10 @@
             "posterUrl": "https://i.imgur.com/Knl8Nji.jpg",
             "runtime": 87,
             "genre": ["slasher","cult classics"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1988
+            "starRating": "",
+            "releaseYear": 1988
         },
         {
             "id": 80,
@@ -875,10 +875,10 @@
             "posterUrl": "https://i.imgur.com/NRbZeZD.jpg",
             "runtime": 102,
             "genre": [ "comedy", "cult classics"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2007
+            "starRating": "",
+            "releaseYear": 2007
         },
         {
             "id": 81,
@@ -886,10 +886,10 @@
             "posterUrl": "https://i.imgur.com/SEHyfkJ.jpg",
             "runtime": 100,
             "genre": ["classic"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1977
+            "starRating": "",
+            "releaseYear": 1977
         },
         {
             "id": 82,
@@ -897,10 +897,10 @@
             "posterUrl": "https://i.imgur.com/LFHXptL.jpg",
             "runtime": 97,
             "genre": ["cult classics"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1987
+            "starRating": "",
+            "releaseYear": 1987
         },
         {
             "id": 83,
@@ -908,10 +908,10 @@
             "posterUrl": "https://i.imgur.com/Zb9aK5g.jpg",
             "runtime": 160,
             "genre":  ["psychological"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1980
+            "starRating": "",
+            "releaseYear": 1980
         },
         {
             "id": 84,
@@ -919,10 +919,10 @@
             "posterUrl": "https://i.imgur.com/aPVLN5I.png",
             "runtime": 118,
             "genre": ["psychological"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1991
+            "starRating": "",
+            "releaseYear": 1991
         },
         {
             "id": 85,
@@ -930,10 +930,10 @@
             "posterUrl": "https://i.imgur.com/6B9hBib.jpg",
             "runtime": 104,
             "genre": ["psychological"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2017
+            "starRating": "",
+            "releaseYear": 2017
         },
         {
             "id": 86,
@@ -941,10 +941,10 @@
             "posterUrl": "https://i.imgur.com/h5tOmT7.jpg",
             "runtime": 98,
             "genre": ["psychological"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1976
+            "starRating": "",
+            "releaseYear": 1976
         },
         {
             "id": 87,
@@ -952,10 +952,10 @@
             "posterUrl": "https://i.imgur.com/cF1zR9D.jpg",
             "runtime": 109,
             "genre": ["classic","psychological"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1960
+            "starRating": "",
+            "releaseYear": 1960
         },
         {
             "id": 88,
@@ -963,10 +963,10 @@
             "posterUrl": "https://i.imgur.com/4dwTBvX.jpg",
             "runtime": 111,
             "genre": ["psychological"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2007
+            "starRating": "",
+            "releaseYear": 2007
         },
         {
             "id": 89,
@@ -974,10 +974,10 @@
             "posterUrl": "https://i.imgur.com/CBTqTP0.jpg",
             "runtime": 107,
             "genre": ["psychological"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1990
+            "starRating": "",
+            "releaseYear": 1990
         },
         {
             "id": 90,
@@ -985,10 +985,10 @@
             "posterUrl": "https://i.imgur.com/RD4WumK.jpg",
             "runtime": 104,
             "genre": ["psychological"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2000
+            "starRating": "",
+            "releaseYear": 2000
         },
         {
             "id": 91,
@@ -996,10 +996,10 @@
             "posterUrl": "https://i.imgur.com/QAs6WkK.jpg",
             "runtime": 148,
             "genre": ["psychological"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2019
+            "starRating": "",
+            "releaseYear": 2019
         },
         {
             "id": 93,
@@ -1007,10 +1007,10 @@
             "posterUrl": "https://i.imgur.com/lIWNll7.jpg",
             "runtime": 95,
             "genre": ["psychological"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2015
+            "starRating": "",
+            "releaseYear": 2015
         },
         {
             "id": 94,
@@ -1018,10 +1018,10 @@
             "posterUrl": "https://i.imgur.com/xbSM3Cw.jpg",
             "runtime": 82,
             "genre": ["psychological"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1972
+            "starRating": "",
+            "releaseYear": 1972
         },
         {
             "id": 95,
@@ -1029,10 +1029,10 @@
             "posterUrl": "https://i.imgur.com/wfx2Y5K.jpg",
             "runtime": 91,
             "genre": ["psychological"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2008
+            "starRating": "",
+            "releaseYear": 2008
         },
         {
             "id": 96,
@@ -1040,10 +1040,10 @@
             "posterUrl": "https://i.imgur.com/0UGLFcs.jpg",
             "runtime": 81,
             "genre": ["psychological"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1997
+            "starRating": "",
+            "releaseYear": 1997
         },
         {
             "id": 97,
@@ -1051,10 +1051,10 @@
             "posterUrl": "https://i.imgur.com/5WM6GuI.jpg",
             "runtime": 97,
             "genre": ["psychological"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2014
+            "starRating": "",
+            "releaseYear": 2014
         },
         {
             "id": 99,
@@ -1062,10 +1062,10 @@
             "posterUrl": "https://i.imgur.com/jShcqss.jpg",
             "runtime": 82,
             "genre": ["psychological"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2014
+            "starRating": "",
+            "releaseYear": 2014
         },
         {
             "id": 100,
@@ -1073,10 +1073,10 @@
             "posterUrl": "https://i.imgur.com/RQ5OKem.jpg",
             "runtime": 85,
             "genre": ["psychological"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2013
+            "starRating": "",
+            "releaseYear": 2013
         },
         {
             "id": 101,
@@ -1084,10 +1084,10 @@
             "posterUrl": "https://i.imgur.com/slHDWOY.jpg",
             "runtime": 100,
             "genre": ["slasher","comedy"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1996
+            "starRating": "",
+            "releaseYear": 1996
         },
         {
             "id": 102,
@@ -1095,10 +1095,10 @@
             "posterUrl": "https://i.imgur.com/gibKvDt.jpg",
             "runtime": 95,
             "genre": ["slasher"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1980
+            "starRating": "",
+            "releaseYear": 1980
         },
         {
             "id": 103,
@@ -1106,10 +1106,10 @@
             "posterUrl": "https://i.imgur.com/hvqQyTC.jpg",
             "runtime": 79,
             "genre": ["classic"],
-            "age-rating": "PG-13",
+            "ageRating": "PG-13",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1925
+            "starRating": "",
+            "releaseYear": 1925
         },
         {
             "id": 104,
@@ -1117,10 +1117,10 @@
             "posterUrl": "https://i.imgur.com/9TMBN91.jpg",
             "runtime": 83,
             "genre": ["slasher"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1974
+            "starRating": "",
+            "releaseYear": 1974
         },
         {
             "id": 105,
@@ -1128,10 +1128,10 @@
             "posterUrl": "https://i.imgur.com/3wI6NPO.jpg",
             "runtime": 109,
             "genre": ["slasher"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2005
+            "starRating": "",
+            "releaseYear": 2005
         },
         {
             "id": 106,
@@ -1139,10 +1139,10 @@
             "posterUrl": "https://i.imgur.com/SqaFdSI.jpg",
             "runtime": 89,
             "genre": ["slasher"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1977
+            "starRating": "",
+            "releaseYear": 1977
         },
         {
             "id": 107,
@@ -1150,10 +1150,10 @@
             "posterUrl": "https://i.imgur.com/ImjOmJ8.jpg",
             "runtime": 97,
             "genre": ["zombie", "comedy"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2004
+            "starRating": "",
+            "releaseYear": 2004
         },
         {
             "id": 108,
@@ -1161,10 +1161,10 @@
             "posterUrl": "https://i.imgur.com/VfxYFK9.jpg",
             "runtime": 95,
             "genre": ["comedy"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2011
+            "starRating": "",
+            "releaseYear": 2011
         },
         {
             "id": 109,
@@ -1172,10 +1172,10 @@
             "posterUrl": "https://i.imgur.com/I31OSTy.png",
             "runtime": 86,
             "genre": ["comedy"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2014
+            "starRating": "",
+            "releaseYear": 2014
         },
         {
             "id": 110,
@@ -1183,10 +1183,10 @@
             "posterUrl": "https://i.imgur.com/AwfqPbt.jpg",
             "runtime": 89,
             "genre": ["comedy"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2010
+            "starRating": "",
+            "releaseYear": 2010
         },
         {
             "id": 111,
@@ -1194,10 +1194,10 @@
             "posterUrl": "https://i.imgur.com/BFpUMLq.jpg",
             "runtime": 105,
             "genre": ["comedy"],
-            "age-rating": "PG",
+            "ageRating": "PG",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1984
+            "starRating": "",
+            "releaseYear": 1984
         },
         {
             "id": 112,
@@ -1205,10 +1205,10 @@
             "posterUrl": "https://i.imgur.com/nrqmEm2.jpg",
             "runtime": 103,
             "genre": ["zombie", "comedy"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2019
+            "starRating": "",
+            "releaseYear": 2019
         },
         {
             "id": 113,
@@ -1216,10 +1216,10 @@
             "posterUrl": "https://i.imgur.com/vq52TRO.jpg",
             "runtime": 88,
             "genre": ["comedy"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2000
+            "starRating": "",
+            "releaseYear": 2000
         },
         {
             "id": 114,
@@ -1227,10 +1227,10 @@
             "posterUrl": "https://i.imgur.com/myHT6dv.jpg",
             "runtime": 127,
             "genre": ["zombie"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1978
+            "starRating": "",
+            "releaseYear": 1978
         },
         {
             "id": 115,
@@ -1238,10 +1238,10 @@
             "posterUrl": "https://i.imgur.com/8ZPpYZS.jpg",
             "runtime": 118,
             "genre": ["zombie"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2016
+            "starRating": "",
+            "releaseYear": 2016
         },
         {
             "id": 116,
@@ -1249,10 +1249,10 @@
             "posterUrl": "https://i.imgur.com/BjTo9rd.jpg",
             "runtime": 96,
             "genre": ["zombie"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2017
+            "starRating": "",
+            "releaseYear": 2017
         },
         {
             "id": 117,
@@ -1260,10 +1260,10 @@
             "posterUrl": "https://i.imgur.com/wynHGF3.jpg",
             "runtime": 113,
             "genre": ["zombie"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2002
+            "starRating": "",
+            "releaseYear": 2002
         },
         {
             "id": 118,
@@ -1271,10 +1271,10 @@
             "posterUrl": "https://i.imgur.com/DGWhsy9.jpg",
             "runtime": 100,
             "genre": ["zombie"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2007
+            "starRating": "",
+            "releaseYear": 2007
         },
         {
             "id": 119,
@@ -1282,10 +1282,10 @@
             "posterUrl": "https://i.imgur.com/JaxsbUF.jpg",
             "runtime": 97,
             "genre": [ "zombie"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1968
+            "starRating": "",
+            "releaseYear": 1968
         },
         {
             "id": 120,
@@ -1293,10 +1293,10 @@
             "posterUrl": "https://i.imgur.com/hFYFpdW.jpg",
             "runtime": 78,
             "genre": ["zombie"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2007
+            "starRating": "",
+            "releaseYear": 2007
         },
         {
             "id": 121,
@@ -1304,10 +1304,10 @@
             "posterUrl": "https://i.imgur.com/oiXdBhp.jpg",
             "runtime": 81,
             "genre": ["zombie", "comedy"],
-            "age-rating": "R",
+            "ageRating": "R",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2009
+            "starRating": "",
+            "releaseYear": 2009
         },
         {
             "id": 122,
@@ -1315,10 +1315,10 @@
             "posterUrl": "https://i.imgur.com/tEXgCGm.png",
             "runtime": 81,
             "genre": ["classic"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1922
+            "starRating": "",
+            "releaseYear": 1922
         },
         {
             "id": 123,
@@ -1326,10 +1326,10 @@
             "posterUrl": "https://i.imgur.com/kYCPHNy.jpg",
             "runtime": 71,
             "genre": ["classic"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1933
+            "starRating": "",
+            "releaseYear": 1933
         },
         {
             "id": 124,
@@ -1337,10 +1337,10 @@
             "posterUrl": "https://i.imgur.com/Nl4ygvM.jpg",
             "runtime": 75,
             "genre": ["classic"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1931
+            "starRating": "",
+            "releaseYear": 1931
         },
         {
             "id": 125,
@@ -1348,10 +1348,10 @@
             "posterUrl": "https://i.imgur.com/BDtskVX.jpg",
             "runtime": 71,
             "genre": ["classic"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1931
+            "starRating": "",
+            "releaseYear": 1931
         },
         {
             "id": 126,
@@ -1359,10 +1359,10 @@
             "posterUrl": "https://i.imgur.com/e9SkQvh.jpg",
             "runtime": 98,
             "genre": ["classic"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 1931
+            "starRating": "",
+            "releaseYear": 1931
         },
         {
             "id": 127,
@@ -1370,10 +1370,10 @@
             "posterUrl": "https://i.imgur.com/gxSUsQ4.jpg",
             "runtime": 121,
             "genre": ["psychological","gore"],
-            "age-rating": "Unrated",
+            "ageRating": "Unrated",
             "watchlist": false,
-            "star-rating": "",
-            "release-year": 2018
+            "starRating": "",
+            "releaseYear": 2018
         }
     ]
 }
